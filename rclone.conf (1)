@@ -1,0 +1,15 @@
+[5d44cd8d-397c-4107-b79b-17f2b6a071e8]
+type = alias
+remote = /storage/emulated/0
+
+[shikari]
+type = drive
+scope = drive
+token = {"access_token":"ya29.a0ARrdaM8hj51qXJspzsosTXXcRz7tBsBf5P3UC8AIZI3XMKM5yYbErdObJEPOZ2z4QIIGBySCm9uUh7Ty_x0yjU6q9u0YtBe-lS6w6_lB-hkDtgY7OdX_Ja0kqen7SI-ZAOOi900q3_hMH7mw9t_47QOIvh3r","token_type":"Bearer","refresh_token":"1//0guQX-B-ah4drCgYIARAAGBASNwF-L9IrkjShscECfKyHTJGCgndANHzWH9flXS7yWfmEbiNYzwbCnBHiTk0zS2l9b4JVPlRTsGs","expiry":"2021-11-11T14:23:50.100149512Z"}
+
+[shikari-mirror]
+type = drive
+scope = drive
+root_folder_id = 0ACMdmuO4HbSlUk9PVA
+token = {"access_token":"ya29.a0ARrdaM-41Y9E9-rM9tIlcNeaIOFVCiDgoO1qgpED_olf-59q2-5Ceq__Tr8qfE1KqWJa7wKbhD4Mb_KTy99fc38Rv4GflbmAyUgiXYnqTnluPzyVsfFzhkgap0Ksm2hquL7lh9n9p75VagkLabjaowFFa2UR","token_type":"Bearer","refresh_token":"1//0gIZlb_OG7PY-CgYIARAAGBASNwF-L9Ir12GXUSbeaHJiwqaXbH3eIsfD0_dqSMZsOogMHzCF_CiIgJ8lv6fibwlMRG0ecvQ_u4Q","expiry":"2021-11-11T14:26:03.461083055Z"}
+
